@@ -18,6 +18,7 @@ public class HomePage extends BasePage
 	}
 	public void signHandle() throws InterruptedException 
 	{	Thread.sleep(2000);
+System.out.println("Hello Home Page");
 	signin.click();
 	}
 	
