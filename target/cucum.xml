@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.514">
+    <testcase classname="GitHub Login feature" name="Positive Login scenario" time="7.207">
+        <system-out><![CDATA[Given User has to be on the GitHub Login Page...............................passed
+When User needs to enter username and password..............................passed
+When User need to click on Signin button....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
